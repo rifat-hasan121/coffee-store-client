@@ -38,17 +38,6 @@ const AddCoffee = () => {
         }
     })
 
-
-
-    // const name = form.name.value;
-    // const chef = form.chef.value;
-    // const supplier = form.supplier.value;
-    // const taste = form.taste.value;
-    // const category = form.category.value;
-    // const photo = form.photo.value;
-    // const details = form.details.value;
-    // console.log(name, chef, supplier, taste, category, photo, details);
-
   }
 
 
